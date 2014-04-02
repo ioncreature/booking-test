@@ -179,6 +179,12 @@ h2 {
 	width: 100%;
 }
 
+.rooms_table thead .room_name,
+.rooms_table thead .room_occupancy,
+.rooms_table thead .room_price {
+    cursor: pointer;
+}
+
 .rooms_table th, .rooms_table td {
 	padding: 5px;
 }

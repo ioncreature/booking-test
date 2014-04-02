@@ -49,9 +49,9 @@ So I decided to assign highest priority to the 1st task.
 	add a layer that shows the contents of the images alt text.
 
 
-I think we should add block with at least start price per night in the top 
-of page for user convenience.
-	
+I think we should add block with start price per night and/or "Book now" button
+in the top of page.
+
 2.  Improve the hotel page however you see fit.
 
 
@@ -87,3 +87,7 @@ block is not necessary. If some hotel has more facilities we can add some
 grouping. But in this case everything is ok.
 	
 7.  Improve the facilities block.
+
+
+NOTE:
+I will implement 1st and 4th tasks from my list.
