@@ -37,6 +37,34 @@ h2 {
 	border-bottom: 1px dotted #ccc;
 	padding-bottom: 10px;
 	margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.header .left {
+    float: left;
+}
+
+.header .right {
+    float: right;
+}
+
+header .blue_button {
+    font-weight: bold;
+    margin: 6px;
+    box-shadow: 0 0 3px #aaa;
+    text-decoration: none;
+    color: white;
+    display: block;
+    border-radius: 3px;
+    background: #0896ff;
+    text-shadow: none;
+    border: 2px solid white;
+    padding: 5px 10px;
+    font-size: 13px;
+}
+
+header .blue_button:hover {
+    background: #003580;
 }
 
 .hotel_name {
